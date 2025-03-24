@@ -1,2 +1,2 @@
-export * from './NavBar';
 export * from './MainCharacters';
+export * from './CharacterCard';

@@ -1,5 +1,6 @@
 import React from 'react'
-import { MainCharacters, NavBar } from './RickAndMorty/components'
+import { MainCharacters } from './RickAndMorty/components'
+import { NavBar } from './ui/components'
 
 export const RickAndMortyApp = () => {
   return (
